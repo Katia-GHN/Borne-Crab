@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borne", "Borne\Borne.csproj", "{13F73762-B528-490D-A066-BE076B04AB20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13F73762-B528-490D-A066-BE076B04AB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F73762-B528-490D-A066-BE076B04AB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F73762-B528-490D-A066-BE076B04AB20}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{13F73762-B528-490D-A066-BE076B04AB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F73762-B528-490D-A066-BE076B04AB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F73762-B528-490D-A066-BE076B04AB20}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A242E319-FB3D-4A41-8D9E-DCBFB9ED3792}
+	EndGlobalSection
+EndGlobal
